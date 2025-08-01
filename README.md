@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Enzo Alvarenga Mariano</h1>
 <p align="center">
   <strong>Estudante de Engenharia de Software | Front-End | Banco de Dados | Cloud</strong><br>
-  <em>Transformando ideias em soluções com código, design e dados.</em>
+  <em>Transformando ideias em soluções.</em>
 </p>
 
 ---
