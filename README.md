@@ -17,7 +17,7 @@ Tenho paixão por tecnologia, inovação e metodologias ágeis, buscando sempre 
 ## 🧠 Tecnologias & Ferramentas
 
 - 💻 *Linguagens*: HTML, CSS, JavaScript, Python  
-- ⚙️ *Frameworks*: React, Node.js  
+- ⚙️ *Frameworks*: React, Express e Node
 - 🗃️ *Banco de Dados*: Oracle SQL, PostgreSQL  
 - ☁️ *Cloud & Ferramentas*: Google Cloud, SAP Business One, Power BI
 - 🎨 *Design*: Figma, Photoshop  
